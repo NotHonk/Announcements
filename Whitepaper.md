@@ -64,7 +64,7 @@ HONK NFTs: Limited edition NFTs with varying levels of rarity (240).
 
 #### NFT
 * Team: 40
-* Aidrop: 100
+* Airdrop: 100
 * Presale: 100
 
 ### Utility
