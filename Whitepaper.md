@@ -55,10 +55,12 @@ HONK NFTs: Limited edition NFTs with varying levels of rarity (240).
 ### Distribution Mechanism
 #### HONK
 * Presale: 50%
-* Dex: 27%
-* Team: 3%
-* Marketing: 7%
-* Mining: 13% (We have bought back 7% of HONK; therefore, ultimately 20% will be used for mining.)
+* Dex: 27% (Locked)
+* Team: 3% (Locked)
+* Marketing: 7% (Locked)
+* Mining: 13% (Locked)
+
+> We have bought back 7% of HONK; therefore, ultimately 20% will be used for mining.
 
 #### NFT
 * Team: 40
